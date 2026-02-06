@@ -22,14 +22,14 @@
     <jmh.generator>default</jmh.generator>
     <jmh.jar.name>benchmarks</jmh.jar.name>
 
-    <scala.mavenPlugin.version>4.9.5</scala.mavenPlugin.version>
-    <surefire.mavenPlugin.version>3.5.3</surefire.mavenPlugin.version>
+    <scala.mavenPlugin.version>4.9.9</scala.mavenPlugin.version>
+    <surefire.mavenPlugin.version>3.5.4</surefire.mavenPlugin.version>
     <scalatest.mavenPlugin.version>2.2.0</scalatest.mavenPlugin.version>
     <builderHelper.mavenPlugin.version>3.6.1</builderHelper.mavenPlugin.version>
-    <exec.mavenPlugin.version>3.5.1</exec.mavenPlugin.version>
-    <compiler.mavenPlugin.version>3.14.0</compiler.mavenPlugin.version>
-    <shade.mavenPlugin.version>3.6.0</shade.mavenPlugin.version>
-    <versions.mevenPlugin.version>2.18.0</versions.mevenPlugin.version>
+    <exec.mavenPlugin.version>3.6.3</exec.mavenPlugin.version>
+    <compiler.mavenPlugin.version>3.15.0</compiler.mavenPlugin.version>
+    <shade.mavenPlugin.version>3.6.1</shade.mavenPlugin.version>
+    <versions.mevenPlugin.version>2.21.0</versions.mevenPlugin.version>
   </properties>
 
   <dependencies>
